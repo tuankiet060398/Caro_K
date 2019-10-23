@@ -1,0 +1,9 @@
+F:\codecocaro\CaroK\CaroK\bin\Debug\CaroK.exe.config
+F:\codecocaro\CaroK\CaroK\bin\Debug\CaroK.exe
+F:\codecocaro\CaroK\CaroK\bin\Debug\CaroK.pdb
+F:\codecocaro\CaroK\CaroK\obj\Debug\CaroK.csprojResolveAssemblyReference.cache
+F:\codecocaro\CaroK\CaroK\obj\Debug\CaroK.Form1.resources
+F:\codecocaro\CaroK\CaroK\obj\Debug\CaroK.Properties.Resources.resources
+F:\codecocaro\CaroK\CaroK\obj\Debug\CaroK.csproj.GenerateResource.Cache
+F:\codecocaro\CaroK\CaroK\obj\Debug\CaroK.exe
+F:\codecocaro\CaroK\CaroK\obj\Debug\CaroK.pdb
